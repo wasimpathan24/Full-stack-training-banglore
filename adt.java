@@ -1,4 +1,4 @@
-when a class contain multiple same name method but they differ by 
+/*when a class contain multiple same name method but they differ by 
 no. of arguments 
 types of arguments
 sequence of argument 
@@ -9,6 +9,9 @@ Use to implement compile time polymorphisms
 with the help of this by using the single name we can perform multiple acivities so no nee work with multiple methods
 of different name .
 
+
+
+*/
 
 
 
@@ -23,7 +26,7 @@ class adt{
 	}
 	
 	void sum (int x, int y, int z){
-		System.out.print(" Sum of int int int :" +(x+y+z))
+		System.out.print(" Sum of int int int :" +(x+y+z));
 	
 	}
 	
